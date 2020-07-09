@@ -1,11 +1,13 @@
 ### Installation
 
+Set your **email** and **password** in `settings.json`, then:
 ```sh
 $ pip3 install -r requirements.txt
 ```
 
+
 ### Run
-Set your **email** and **password** in `settings.json`, then:
+
 
 ```sh
 $ python main.py <apple_playlist_url>
