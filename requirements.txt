@@ -5,5 +5,5 @@ idna==2.8
 PySocks==1.7.1
 requests==2.22.0
 soupsieve==2.0.1
-urllib3==1.25.7
+urllib3==1.26.5
 yandex-music==0.1.2
